@@ -1,0 +1,45 @@
+
+  {
+    "cards": [
+      {
+        "q": "What is the capital of Syria?",
+        "a": "Damascus"
+      },
+      {
+        "q": "What is the capital of the United States of America?",
+        "a": "Washington DC"
+      },
+      {
+        "q": "What is the capital of Canada?",
+        "a": "Ottawa"
+      },
+      {
+        "q": "What is the capital of Australia",
+        "a": "Canberra"
+      },
+      {
+        "q":"What is the capital of Mexico?",
+        "a": "Mexico city"
+      },
+      {
+        "q": "What is the capital of Syria?",
+        "a": "Damascus"
+      },
+      {
+        "q": "What is the capital of Lebanon?",
+        "a": "Beirut"
+      },
+      {
+        "q": "What is the capital of Israel?",
+        "a": "Jerusalem"
+      },
+      {
+        "q": "What is the capital of Jordan?",
+        "a": "Amman"
+      },
+      {
+        "q": "What is the capital of Iraq?",
+        "a": "Baghdad"
+      }
+    ]
+  }
